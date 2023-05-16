@@ -1,0 +1,22 @@
+
+body
+{
+	background-color:#CAFC85;
+}
+
+body {
+    margin: 0;
+  }
+  
+  .header {
+    background-color: #2cf278;
+    padding: 20px;
+    text-align: center;
+  }
+ 
+  .footer {
+    position: absolute;
+    width: 100%;
+    background: #00000068;
+    text-align: center;
+    margin-top: 100px;
