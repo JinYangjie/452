@@ -20,3 +20,32 @@ body {
     background: #00000068;
     text-align: center;
     margin-top: 100px;
+	  }
+nav {
+  text-align: center;
+  background-color: #9b8484ec;
+ }
+ 
+ nav ul {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+ }
+ 
+ nav ul li {
+  display: inline-block;
+ margin: 0 10px;
+ }
+ 
+ nav ul li a {
+ display: block;
+  padding: 10px;
+  color: #ffffff;
+  text-decoration: none;
+ }
+ 
+ nav ul li a:hover {
+ color: #75d9eb;
+ background-color: #b44242;
+ }
